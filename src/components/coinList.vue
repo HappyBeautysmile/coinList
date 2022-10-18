@@ -54,11 +54,6 @@
                   (parseFloat(coin["DISPLAY"].USD.CHANGE24HOUR.replace("$", "")) /
                     parseFloat(coin["DISPLAY"].USD.PRICE.replace("$", "")))
                 ).toPrecision(4),
-                // HCHANGE: (
-                //   (parseFloat(coin["DISPLAY"].USD.CHANGE24HOUR.replace("$", "")) /
-                //     parseFloat(coin["DISPLAY"].USD.PRICE.replace("$", ""))) *
-                //   100
-                // ).toPrecision(4),
               });
             });
             console.log("", Alltodos);
