@@ -11,7 +11,7 @@
         <div class="table-body">
         <div class="table-row" v-for="(todo, index) in Alltodos" :key="index">
           <div class="name">
-            <img src="{{todo.ImageUrl}}" alt="coin logo" />
+            <img ng-src="{{todo.ImageUrl}}" alt="coin logo" />
             <div>
               {{todo.Name}}
             </div>
