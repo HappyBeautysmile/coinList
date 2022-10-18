@@ -82,6 +82,7 @@
   <style scoped>
   .table{
     margin: 0 20px;
+    padding: 20px 0;
   }
   .table-body {
     max-height: 400px;

@@ -21,4 +21,8 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+#line-chart{
+ /* background-color: rgb(201, 216,239) !important; */
+ background: linear-gradient(180deg, rgba(238,243,249,1) 0%,  rgba(201,216,239,1) 100%)!important;
+}
 </style>
