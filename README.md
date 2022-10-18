@@ -1,6 +1,7 @@
 
 ## Screenshots
-<img src="screen.png"  alt="First Page" width="100%" height="100%"/>
+<img src="./src/assets/screen.gif"  alt="First Page" width="100%" height="100%"/>
+
 ## Project setup
 
 ```
